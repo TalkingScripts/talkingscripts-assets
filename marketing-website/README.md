@@ -27,5 +27,5 @@ When a file is replaced, commit it under a new name or bump the pinned commit in
 
 ## Still to replace
 
-- `how-it-works/`: every screen here is temporary until the final screenshots arrive.
+- `how-it-works/`: every screen here is temporary until the final screenshots arrive. `how-speed-backdrop.webp`, `how-dark-backdrop.webp` and `how-ipad-backdrop.webp` are pictures of the site's own drawn screens, made only to sit blurred behind those slides. They show demo titles only.
 - `posters/` and `about/`: higher-resolution versions are wanted.
