@@ -19,7 +19,7 @@ When a file is replaced, commit it under a new name or bump the pinned commit in
 | Folder | Contents |
 |---|---|
 | `brand/` | Nav logos (ink and white), the stacked splash logo, the Talking Scripts Studio logo, the App Store badge and QR code |
-| `hero/` | The hero photo: Idris on set with his phone, mirrored so he sits on the right (`idris-on-set-2880.webp`, plus a 1440 px version for smaller screens). `founders-hero.webp` is the earlier Stefan and Idris cut-out, no longer used. |
+| `hero/` | The hero photo: Idris in a director's chair with his phone, on the right of the frame (`idris-director-chair-2880.webp`, plus a 1440 px version for smaller screens). `idris-on-set-*.webp` and `founders-hero.webp` are earlier heroes, no longer used. |
 | `try-it-out/` | The ribbon loop behind the demo (H.264, white background for multiply blending), plus its still frame |
 | `posters/` | Key art for the "Trusted on set" wall |
 | `how-it-works/` | Carousel screens: phone cut-outs (`how-*.webp`) and the full art used as blurred backdrops (`how-*-backdrop.webp`) |
